@@ -7,3 +7,6 @@ print(f"Hello {nom}! Good luck with your studying.")
 matiere = input("Which subject are you studying? ")
 
 print(f"You are studying: {matiere}.")
+
+duree = input("How many minutes will you study? ")
+print(f"Goal: study {matiere} for {duree} minutes.")
